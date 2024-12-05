@@ -6,7 +6,7 @@ I'm a software engineer at Unified, part of iHeartMedia, where I work with data 
 ## 👨‍💻 What I Do
 - **Tech Stack**: I mainly work with Python, Dask, and AWS Glue, but I’m always exploring new technologies to broaden my skills.
 - **Current Focus**: I'm currently focusing on optimizing ETL processes, transforming big datasets, and improving the scalability of our data systems.
-- **Learning Goals**: Right now, I'm interested in diving deeper into distributed systems and improving my skills in cloud infrastructure. I aim to become an ML/AI Engineer within the next two years.
+- **Learning Goals**: Right now, I'm interested in diving deeper into distributed systems and improving my skills in cloud infrastructure. I aim to incorporate Machine Learning and Artificial Intelligence into my work by next year.
 
 ## 🚀 What I’m Interested In
 - **Data Engineering**: I love working with data, making sense of it, and ensuring it flows seamlessly through systems.
